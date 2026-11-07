@@ -12,3 +12,4 @@ wheels/
 # 音檔與轉錄結果
 input/
 output/
+reference/

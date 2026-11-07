@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(brew install *)",
+      "Bash(pdftotext \"電商創業者／個人品牌網站開發與整合行銷服務調查報告.pdf\" -)",
+      "Bash(pdftotext \"報價需求分析.pdf\" -)",
+      "Bash(pdftotext \"/Users/fergus/Desktop/workshop/ai-workshop/whisper-translator/output/Deep-Research/台灣中小商家從社群私訊接單升級電商網站的策略分析報告.pdf\" -)",
+      "Bash(pdftotext \"/Users/fergus/Desktop/workshop/ai-workshop/whisper-translator/output/Deep-Research/品牌成長型服務的市場研究與品牌行動系統設計.pdf\" -)",
+      "Bash(pdftotext \"品牌成長型服務的市場研究與品牌行動系統設計.pdf\" -)",
+      "Bash(pdftotext \"台灣中小商家從社群私訊接單升級電商網站的策略分析報告.pdf\" -)",
+      "Bash(mkdir -p /Users/fergus/Desktop/workshop/ai-workshop/whisper-translator/docs/superpowers/specs)",
+      "WebFetch(domain:skills.sh)",
+      "Bash(open /Users/fergus/Desktop/workshop/ai-workshop/whisper-translator/output/不迷鹿/提案簡報-v1.html)",
+      "WebSearch"
+    ],
+    "additionalDirectories": [
+      "/Users/fergus/Desktop/workshop/ai-workshop/whisper-translator/output",
+      "/Users/fergus/Desktop/workshop/ai-workshop/whisper-translator/docs/superpowers"
+    ]
+  }
+}
